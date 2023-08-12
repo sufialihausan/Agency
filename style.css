@@ -240,3 +240,7 @@ hr{
     text-align: center;
     font-size: 18px;
 }
+.copyright a{
+    text-decoration: none;
+    color: #f511b1;
+}
